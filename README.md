@@ -14,7 +14,7 @@ The weight w is drawn from a normal distribution centered around zero and with a
 
 This figure shows the difference between a ReLU and a randomly-weighted ReLU activation function for a layer with 64 neurons:
 
-<img src="/home/akl-ma/Dropbox/TUM/PhD/projects/randomly-weighted-ReLU/.images/relu_plot.png" alt="alt-text-1" style="zoom:33%;" /> <img src="/home/akl-ma/Dropbox/TUM/PhD/projects/randomly-weighted-ReLU/.images/random_relu_plot.png" alt="alt-text-2" style="zoom: 33%;" />
+<img src="./.images/relu_plot.png" style="zoom:33%;" /> <img src="./.images/random_relu_plot.png" style="zoom: 33%;" />
 
 
 
